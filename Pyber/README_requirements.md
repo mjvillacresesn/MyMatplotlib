@@ -22,6 +22,6 @@ Produce the following three pie charts:
 
 -----
 
-* ### Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Ride-Share/blob/master/Pyber/pyber_starter.ipynb)
-* ### Final Analysis - [ Visualizations ](https://github.com/mjvillacresesn/Ride-Share/blob/master/Pyber/Final-Analysis.md)
+* Jupyter Notebook - [ Code ](https://github.com/mjvillacresesn/Ride-Share/blob/master/Pyber/pyber_starter.ipynb)
+* Final Analysis - [ Visualizations ](https://github.com/mjvillacresesn/Ride-Share/blob/master/Pyber/Final-Analysis.md)
 
