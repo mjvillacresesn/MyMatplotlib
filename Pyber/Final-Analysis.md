@@ -1,6 +1,6 @@
 # Final Analysis
 
-## Observable trends based on the data
+## Observable trends based on data
 
 ### Pie charts:
 * We can observe that the "Percentage of Total Drivers"(80.9%) is positively correlated with the "Percentage of Total Rides"(68.4%) and "Percentage of Total Fares"(62.7%); the more total drivers available the more total rides occurring and thus the more amount of total fares received.
